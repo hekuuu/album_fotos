@@ -73,8 +73,9 @@ body {
     background-color: #9574d1 !important; /* Color naranja */
 }
 .imagen_menu{
-    width: 150px;
-    height: 80px;
+    width:250px;
+    height: 85px;
+    padding-left: 25px;
 }
 .footer{
     background-color: #320650;
