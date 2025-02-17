@@ -69,3 +69,13 @@ body {
 .card:hover {
     transform: scale(1.05); 
 }
+.menu {
+    background-color: #9574d1 !important; /* Color naranja */
+}
+.imagen_menu{
+    width: 150px;
+    height: 80px;
+}
+.footer{
+    background-color: #320650;
+}
